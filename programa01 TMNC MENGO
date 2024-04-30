@@ -1,0 +1,14 @@
+	string test;
+				
+				Console.Write("Digite a: ");
+				test=Console.ReadLine();
+				  
+				
+				if (test == "a")
+				{
+					Console.Write("Vasco");
+				}else{
+					Console.Write("TMNC FLAMENGO");
+				}
+				
+				Console.ReadKey(true);
